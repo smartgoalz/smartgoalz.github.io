@@ -1,0 +1,56 @@
+body {
+	font-family: 'Chivo', sans-serif;
+	background: #EEEEEE;
+}
+
+.header {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: solid #DDDDDD 1px;
+}
+
+.site-name {
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.site-slogan {
+	font-size: 23px;
+	color: #666666;
+}
+
+.content {
+	padding-top: 20px;
+	font-size: 15px;
+}
+
+.feature-title {
+	font-size: 18px;
+}
+
+ul.feature-list {
+	font-size: 15px;
+	list-style-type: none;
+	margin-left: -35px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+ul.feature-list > li {
+	margin: 8px;
+}
+
+.action-buttons {
+	margin-bottom: 20px;
+}
+
+.after-space {
+	margin-right:8px;
+}
+
+.footer {
+	font-family: sans-serif;
+	margin-top: 100px;
+	color: #999999;
+}
