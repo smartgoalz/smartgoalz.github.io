@@ -20,13 +20,19 @@ body {
 	color: #666666;
 }
 
-.content {
-	padding-top: 20px;
-	font-size: 15px;
+.site-url {
+	margin-top: 5px;
+	font-size: 17px;
+	margin-left: 5px;
 }
 
-.feature-title {
-	font-size: 18px;
+.site-url a {
+	text-decoration: none;
+}
+
+.content {
+	padding-top: 10px;
+	font-size: 15px;
 }
 
 ul.feature-list {
@@ -47,6 +53,10 @@ ul.feature-list > li {
 
 .after-space {
 	margin-right:8px;
+}
+
+.content-item {
+	padding-left: 40px;
 }
 
 .footer {
