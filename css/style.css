@@ -59,6 +59,18 @@ ul.feature-list > li {
 	padding-left: 10px;
 }
 
+.screenshot-thumbnail {
+	border: solid #CCCCCC 5px;
+}
+
+a.screenshot-link:hover {
+	text-decoration: none;
+}
+
+.screenshot-td {
+	padding: 10px;
+}
+
 .footer {
 	border-top: solid #DDDDDD 1px;
 	font-family: sans-serif;
