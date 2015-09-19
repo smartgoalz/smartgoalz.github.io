@@ -1,12 +1,12 @@
 body {
 	font-family: 'Chivo', sans-serif;
-	background: #EEEEEE;
+	padding-left: 20px;
+	padding-top: 10px;
 }
 
 .header {
 	padding-top: 10px;
-	padding-bottom: 30px;
-	border-bottom: solid #DDDDDD 1px;
+	padding-bottom: 10px;
 }
 
 .site-name {
@@ -22,7 +22,6 @@ body {
 
 .site-url {
 	margin-top: 5px;
-	font-size: 18px;
 	margin-left: 5px;
 }
 
@@ -31,7 +30,6 @@ body {
 }
 
 .content {
-	padding-top: 10px;
 	font-size: 15px;
 }
 
